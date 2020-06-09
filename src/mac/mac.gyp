@@ -49,6 +49,7 @@
         '../renderer/renderer.gyp:renderer_client',
         '../session/session_base.gyp:ime_switch_util',
         '../testing/testing.gyp:gtest_main',
+        '../unix/emacs/emacs.gyp:mozc_emacs_helper',
         'gen_key_mappings',
       ],
       'variables': {
